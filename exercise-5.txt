@@ -1,0 +1,28 @@
+5 - Comprare qualcosa su Amazon 
+Il regalo perfetto
+
+1) Start
+
+2) Apri Amazon
+
+3) Cerca regali
+
+4) Cerca quella lampada da tavolo 
+
+	SE Consegna è prime 
+
+		Compra
+	
+	ALTRIMENTI Cerca quella stilografica
+	
+		SE è nel mio budget
+
+			Compra
+
+		ALTRIMENTI Cerca il libro
+
+			Compra
+
+5) Regala
+
+6) End
